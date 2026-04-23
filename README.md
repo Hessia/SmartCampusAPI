@@ -1,6 +1,6 @@
 # Smart Campus API
 
-This project is a RESTful API developed for a Client-Server Architecture coursework.
+This project was developed as part of a Client-Server Architecture coursework. It provides a simple RESTful API to manage rooms and sensors in a smart campus system.
 
 ## 📌 Features
 
