@@ -1,5 +1,8 @@
 # Smart Campus API
 
+Full Name: Elif Eylul Ak
+Student ID: w2134947
+
 This project is a part of a Client-Server Architecture coursework and provides a simple RESTful API to manage rooms and sensors.
 
 ## 📌 Features
