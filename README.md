@@ -35,17 +35,6 @@ This project is a part of a Client-Server Architecture coursework and provides a
 - POST /api/v1/sensors  
 - DELETE /api/v1/sensors/{id}  
 
-## 📥 Example Request
-
-### Create Room
-
-```json
-{
-  "id": "LIB-301",
-  "name": "Library Quiet Study",
-  "capacity": 40
-}
-
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
@@ -81,3 +70,14 @@ curl -X POST http://localhost:8080/SmartCampusAPI/api/v1/sensors -H "Content-Typ
 
 ### 5. Delete a sensor
 curl -X DELETE http://localhost:8080/SmartCampusAPI/api/v1/sensors/TEMP-001
+
+## 📥 Example Request
+
+### Create Room
+
+```json
+{
+  "id": "LIB-301",
+  "name": "Library Quiet Study",
+  "capacity": 40
+}
